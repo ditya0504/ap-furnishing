@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+const BASE = import.meta.env.BASE_URL;
 import {
   Menu, X, Phone, Mail, MapPin, Clock, ArrowRight,
   ChevronLeft, ChevronRight, Star
