@@ -313,7 +313,7 @@ button {
 @media (max-width: 768px) {
   .hero {
     min-height: 520px;
-    background-position: 60% center;
+    background-position: 60% left;
   }
 
   .hero-shade {
